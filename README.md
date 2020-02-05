@@ -1,4 +1,6 @@
 # bitcoin-dashboard
+Created Bitcoin Dashboad with Vue and Vuex
+
 
 ## Project setup
 ```
